@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This program allows to store the inverse of a matrix in cache. 
+## makeCacheMatrix creates, computes, caches, and returns the inverse
+## of an invertible matrix. cacheSolve retrieves and returns the inverse
+## from the cache.
 
 ## Creates a special "matrix" object that can cache its 
 ## inverse
